@@ -1,4 +1,4 @@
-# DJsEFBlogExample.Xamarin
+# DJsEFBlogExample.Xamarin (Under development)
 A Sqlite Entity Framework Xamarin Sample app as per DJsEFBlogExample
 
 Based upon my Github project [DJsEFBlogExample](https://github.com/djaus2/DJsEFBlogExample) reworked so as to be 
