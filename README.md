@@ -1,11 +1,14 @@
 # DJsEFBlogExample.Xamarin
 A Sqlite Entity Framework Xamarin Sample app as per DJsEFBlogExample
 
+Based upon the Github project djaus2\DJsEFBlogExample 
+implemented in Xamarin based upon https://xamarinhelp.com/entity-framework-core-xamarin-forms/
+
 Following the first part of Getting Started with EF Core on Universal Windows Platform (UWP) with a New Database from Microsoft docs.
 
 Also using my hints in Entity Framework with UWP and SQLite: Referencing the Model
 
-- Using Visual Studio 15.5.7
+- Using Visual Studio Preview 15.5.8 Update 2 (or later)
 - Using EF Version 2.1.1 in what follows.
 
 There is an issue with respect to referencing an EF Framework Core class library from a UWP app. This solution has resolved the issue.
