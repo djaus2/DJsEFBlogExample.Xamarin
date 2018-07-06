@@ -1,7 +1,7 @@
 # DJsEFBlogExample.Xamarin
 A Sqlite Entity Framework Xamarin Sample app as per DJsEFBlogExample
 
-Based upon the Github project djaus2\DJsEFBlogExample 
+Based upon my Github project https://github.com/djaus2/DJsEFBlogExample
 implemented in Xamarin based upon https://xamarinhelp.com/entity-framework-core-xamarin-forms/
 
 Following the first part of Getting Started with EF Core on Universal Windows Platform (UWP) with a New Database from Microsoft docs.
