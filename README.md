@@ -4,6 +4,8 @@ A Sqlite Entity Framework Xamarin Sample app as per DJsEFBlogExample
 Based upon my Github project https://github.com/djaus2/DJsEFBlogExample
 implemented in Xamarin based upon https://xamarinhelp.com/entity-framework-core-xamarin-forms/
 
+* Based upon [Getting Started with EF Core on Universal Windows Platform (UWP) with a New Database from Microsoft docs]{https://docs.microsoft.com/en-us/ef/core/get-started/uwp/getting-started}
+
 Following the first part of Getting Started with EF Core on Universal Windows Platform (UWP) with a New Database from Microsoft docs.
 
 Also using my hints in Entity Framework with UWP and SQLite: Referencing the Model
