@@ -6,6 +6,8 @@ implemented in Xamarin based upon https://xamarinhelp.com/entity-framework-core-
 
 * Based upon [Getting Started with EF Core on Universal Windows Platform (UWP) with a New Database from Microsoft docs]{https://docs.microsoft.com/en-us/ef/core/get-started/uwp/getting-started}
 
+[I'm an inline-style link](https://www.google.com)
+
 Following the first part of Getting Started with EF Core on Universal Windows Platform (UWP) with a New Database from Microsoft docs.
 
 Also using my hints in Entity Framework with UWP and SQLite: Referencing the Model
